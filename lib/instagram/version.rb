@@ -1,3 +1,3 @@
 module Instagram
-  VERSION = '0.6'.freeze unless defined?(::Instagram::VERSION)
+  VERSION = '0.6.1.pre'.freeze unless defined?(::Instagram::VERSION)
 end
